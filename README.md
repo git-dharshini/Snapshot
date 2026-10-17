@@ -33,4 +33,4 @@ Users can click a button to take a snapshot and view it instantly on the page.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DEVA-013/Snapshot.git
+   git clone https://github.com/git-dharshini/Snapshot.git
